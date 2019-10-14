@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>461084315120-fvgt1k4b5ogl2bt95r4t9trgkafu0ir4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.461084315120-fvgt1k4b5ogl2bt95r4t9trgkafu0ir4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhja66rWloua7ahV3J_NHS-8N5Nq4y-18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>461084315120</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>namrata.firebasenamrata</string>
+	<key>PROJECT_ID</key>
+	<string>fir-f6fde</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-f6fde.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:461084315120:ios:72e915c5cd3bbf8fef2135</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-f6fde.firebaseio.com</string>
+</dict>
+</plist>
